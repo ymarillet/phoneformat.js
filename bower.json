@@ -1,0 +1,28 @@
+{
+  "name": "ymarillet/phoneformat.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ymarillet/phoneformat.js",
+  "authors": [
+    "Yohann Marillet <yohann.marillet@gmail.com>"
+  ],
+  "description": "[based on albeebe/phoneformat.js] format phone numbers according to their country",
+  "main": "PhoneFormat.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "phone",
+    "number",
+    "format",
+    "country",
+    "libphonenumber"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
